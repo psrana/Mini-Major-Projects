@@ -20,7 +20,7 @@
 ---
 ### **2. Major Projects**
 ---
- 1. **Problem statements from ISRO for 2021** | [Click Here](https://drive.google.com/file/d/1eG4q4N76y23fLRVVEbuRegauk-0VWBIh/view?usp=sharing){:target="_blank" rel="noopener"}
+ 1. **Problem statements from ISRO for 2021** | <a href="https://drive.google.com/file/d/1eG4q4N76y23fLRVVEbuRegauk-0VWBIh/view?usp=sharing" target="_blank" rel="noopener">Click Here</a>
    - Novel problems | Problems can be considered for Capstone Projects or SIH or any relevant Hackathon
  2. Setting up Environment: How to setup an experiment in PyCaret and get started with building regression/classfication/clustering models
 - Create Model: How to create a model, perform cross validation and evaluate regression metrics
