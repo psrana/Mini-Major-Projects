@@ -1,9 +1,9 @@
 ---
 # **Mini, Major and Research Projects**
 
-#### **1. [Mini Projects](#**1.-Mini-Projects**)**
-#### **2. [Major Projects](#2.-Major-Projects)**
-#### **3. [Research Projets](#3.-Research-Projets)**
+#### **1 [Mini Projects](#1-Mini-Projects**)**
+#### **2 [Major Projects](#2-Major-Projects)**
+#### **3 [Research Projets](#3-Research-Projets)**
 
 ---
 ### **1. Self Learning Resource**
@@ -28,17 +28,17 @@ Place one has the fun times of linking here, but I can also link back [here](#p
 
 
 ---
-### **1. Mini Projects**
+### **1 Mini Projects**
 ---
 
 
 ---
-### **2. Major Projects**
+### **2 Major Projects**
 ---
 
 
 ---
-### **3. Research Projets**
+### **3 Research Projets**
 ---
 - Getting Data: How to import data from PyCaret repository
 - Setting up Environment: How to setup an experiment in PyCaret and get started with building regression/classfication/clustering models
