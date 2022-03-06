@@ -10,35 +10,23 @@
 ---
  1. **500+ Artificial Intelligence Projects with Code** | <a href="https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code" target="_blank" rel="noopener">Click Here</a>
     - Project on Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Time Series, Finance, etc.
- 2. Create Model: How to create a model, perform cross validation and evaluate regression metrics
-- Tune Model: How to automatically tune the hyperparameters of a regression model
-- Plot Model: How to analyze model performance using various plots
-- Finalize Model: How to finalize the best model at the end of the experiment
-- Predict Model: How to make prediction on new / unseen data
-- Save / Load Model: How to save / load a model for future use
+ 2. **500+ Artificial Intelligence Projects with Code** | <a href="https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code" target="_blank" rel="noopener">Click Here</a>
+    - Project on Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Time Series, Finance, etc.
+
 
 ---
 ### **2. Major Projects**
 ---
- 1. **Problem statements from ISRO for 2021** | <a href="https://drive.google.com/file/d/1eG4q4N76y23fLRVVEbuRegauk-0VWBIh/view?usp=sharing" target="_blank" rel="noopener">Click Here</a>
-   - Novel problems | Problems can be considered for Capstone Projects or SIH or any relevant Hackathon
- 2. Setting up Environment: How to setup an experiment in PyCaret and get started with building regression/classfication/clustering models
-- Create Model: How to create a model, perform cross validation and evaluate regression metrics
-- Tune Model: How to automatically tune the hyperparameters of a regression model
-- Plot Model: How to analyze model performance using various plots
-- Finalize Model: How to finalize the best model at the end of the experiment
-- Predict Model: How to make prediction on new / unseen data
-- Save / Load Model: How to save / load a model for future use
+ 1. **Problem statements from ISRO for 2021** | <a href="https://drive.google.com/file/d/1eG4q4N76y23fLRVVEbuRegauk-0VWBIh" target="_blank" rel="noopener">Click Here</a>
+    - Novel problems | Problems can be considered for Capstone Projects or SIH or any relevant Hackathon
+ 2. **150 Problem statements from Army Design Bureau** | <a href="https://drive.google.com/file/d/1eG4q4N76y23fLRVVEbuRegauk-0VWBIh/view?usp=sharing" target="_blank" rel="noopener">Click Here</a>
+    - Problems for All Domains and Departments | Suitable for Capstone Project.
 
 ---
 ### **3. Research Projets**
 ---
-- https://github.com/zziz/pwc
-- Setting up Environment: How to setup an experiment in PyCaret and get started with building regression/classfication/clustering models
-- Create Model: How to create a model, perform cross validation and evaluate regression metrics
-- Tune Model: How to automatically tune the hyperparameters of a regression model
-- Plot Model: How to analyze model performance using various plots
-- Finalize Model: How to finalize the best model at the end of the experiment
-- Predict Model: How to make prediction on new / unseen data
-- Save / Load Model: How to save / load a model for future use
+1. **Real Life Optimization Problems** | <a href="https://github.com/P-N-Suganthan/2020-RW-Constrained-Optimisation/blob/master/Problem-Definitions.pdf" target="_blank" rel="noopener">Click Here</a>
+   - Optimization Porblems from multiple domains (Electrical, Mechanical, Chemical, Computer Science, Civil, Computational Biology, etc)
+2. Real Life Optimization Problems | Click Here
+   - Optimization Porblems from multiple domains (Electrical, Mechanical, Chemical, Computer Science, Civil, Computational Biology, etc)
 
