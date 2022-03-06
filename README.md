@@ -28,6 +28,5 @@
 ---
 1. **Real Life Optimization Problems** | <a href="https://github.com/P-N-Suganthan/2020-RW-Constrained-Optimisation/blob/master/Problem-Definitions.pdf" target="_blank" rel="noopener">Click Here</a>
    - Optimization Porblems from multiple domains (Electrical, Mechanical, Chemical, Computer Science, Civil, Computational Biology, etc)
-2. Real Life Optimization Problems | Click Here
-   - Optimization Porblems from multiple domains (Electrical, Mechanical, Chemical, Computer Science, Civil, Computational Biology, etc)
+2. **Best papers of top conferences with code ** | <a href="https://github.com/zziz/pwc" target="_blank" rel="noopener">Click Here</a>
 
