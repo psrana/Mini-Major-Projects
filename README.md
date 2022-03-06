@@ -20,8 +20,9 @@
 ---
 ### **2. Major Projects**
 ---
-- Getting Data: How to import data from PyCaret repository
-- Setting up Environment: How to setup an experiment in PyCaret and get started with building regression/classfication/clustering models
+ 1. **Problem statements from ISRO for 2021** | [Click Here](https://drive.google.com/file/d/1eG4q4N76y23fLRVVEbuRegauk-0VWBIh/view?usp=sharing)
+   - Novel problems | Problems can be considered for Capstone Projects or SIH or any relevant Hackathon
+ 2. Setting up Environment: How to setup an experiment in PyCaret and get started with building regression/classfication/clustering models
 - Create Model: How to create a model, perform cross validation and evaluate regression metrics
 - Tune Model: How to automatically tune the hyperparameters of a regression model
 - Plot Model: How to analyze model performance using various plots
