@@ -6,36 +6,28 @@
 #### **3. [Research Projets](#3-research-projets-1)**
 
 ---
-### **1. Self Learning Resource**
-
-Tutorial on Pycaret for Regression, Classification and Clustering <a href="https://pycaret.readthedocs.io/en/latest/tutorials.html"> Click Here</a> 
-
-
-
-## Title
-
-### Place 1
-
-Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
-
-### Place 2
-
-Place one has the fun times of linking here, but I can also link back [here](#place-1).
-
-### Place's 3: other example
-
-Place one has the fun times of linking here, but I can also link back [here](#p
-
-
----
 ### **1. Mini Projects**
 ---
-
+- Getting Data: How to import data from PyCaret repository
+- Setting up Environment: How to setup an experiment in PyCaret and get started with building regression/classfication/clustering models
+- Create Model: How to create a model, perform cross validation and evaluate regression metrics
+- Tune Model: How to automatically tune the hyperparameters of a regression model
+- Plot Model: How to analyze model performance using various plots
+- Finalize Model: How to finalize the best model at the end of the experiment
+- Predict Model: How to make prediction on new / unseen data
+- Save / Load Model: How to save / load a model for future use
 
 ---
 ### **2. Major Projects**
 ---
-
+- Getting Data: How to import data from PyCaret repository
+- Setting up Environment: How to setup an experiment in PyCaret and get started with building regression/classfication/clustering models
+- Create Model: How to create a model, perform cross validation and evaluate regression metrics
+- Tune Model: How to automatically tune the hyperparameters of a regression model
+- Plot Model: How to analyze model performance using various plots
+- Finalize Model: How to finalize the best model at the end of the experiment
+- Predict Model: How to make prediction on new / unseen data
+- Save / Load Model: How to save / load a model for future use
 
 ---
 ### **3. Research Projets**
