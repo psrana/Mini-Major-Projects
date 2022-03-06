@@ -1,7 +1,7 @@
 ---
 # **Mini, Major and Research Projects**
 
-#### **1 [Mini Projects](#1-Mini-Projects**)**
+#### **1 [Mini Projects](#1-Mini-Projects)**
 #### **2 [Major Projects](#2-Major-Projects)**
 #### **3 [Research Projets](#3-Research-Projets)**
 
