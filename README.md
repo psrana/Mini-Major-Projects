@@ -8,7 +8,8 @@
 ---
 ### **1. Mini Projects**
 ---
- 1. **500+ Artificial Intelligence Projects with Code** | <a href="https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code" target="_blank" rel="noopener">Click Here</a>
+ 1. **500+ Artificial Intelligence Projects with Code** | <a href="https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code" target="_blank" rel="noopener">Click Here</a> | <a href="https://www.youtube.com/watch?v=y7k-zCvOYxc" target="_blank" rel="noopener">Click Here for Video</a>
+ 2. 
     - Project on Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Time Series, Finance, etc.
  2. **500+ Artificial Intelligence Projects with Code** | <a href="https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code" target="_blank" rel="noopener">Click Here</a>
     - Project on Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Time Series, Finance, etc.
