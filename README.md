@@ -8,8 +8,8 @@
 ---
 ### **1. Mini Projects**
 ---
- 1. 500+ 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁s 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲 | [Click Here](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
-    - Project on Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Time Series
+ 1. **500+ Artificial Intelligence Projects with Code** | [Click Here](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+    - Project on Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Time Series, Finance, etc.
  2. Create Model: How to create a model, perform cross validation and evaluate regression metrics
 - Tune Model: How to automatically tune the hyperparameters of a regression model
 - Plot Model: How to analyze model performance using various plots
