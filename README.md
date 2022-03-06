@@ -1,1 +1,1 @@
-# Mini-Major-Projects
+# Mini, Major and Research Projects
