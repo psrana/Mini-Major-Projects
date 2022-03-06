@@ -9,8 +9,7 @@
 ### **1. Mini Projects**
 ---
  1. **500+ Artificial Intelligence Projects with Code** | <a href="https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code" target="_blank" rel="noopener">Click Here</a> | <a href="https://www.youtube.com/watch?v=y7k-zCvOYxc" target="_blank" rel="noopener">Click Here for Video</a>
- 2. 
-    - Project on Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Time Series, Finance, etc.
+     - Project on Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Time Series, Finance, etc.
  2. **500+ Artificial Intelligence Projects with Code** | <a href="https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code" target="_blank" rel="noopener">Click Here</a>
     - Project on Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Time Series, Finance, etc.
 
@@ -28,5 +27,5 @@
 ---
 1. **Real Life Optimization Problems** | <a href="https://github.com/P-N-Suganthan/2020-RW-Constrained-Optimisation/blob/master/Problem-Definitions.pdf" target="_blank" rel="noopener">Click Here</a>
    - Optimization Porblems from multiple domains (Electrical, Mechanical, Chemical, Computer Science, Civil, Computational Biology, etc)
-2. **Best papers of top conferences with code ** | <a href="https://github.com/zziz/pwc" target="_blank" rel="noopener">Click Here</a>
+2. **Best papers of top conferences with code** | <a href="https://github.com/zziz/pwc" target="_blank" rel="noopener">Click Here</a>
 
