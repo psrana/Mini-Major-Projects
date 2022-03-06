@@ -1,9 +1,9 @@
 ---
 # **Mini, Major and Research Projects**
 
-#### **1. [Mini Projects](#1-Mini-Projects)**
-#### **2. [Major Projects](#2-Major-Projects)**
-#### **3. [Research Projets](#3-Research-Projets)**
+#### **1. [Mini Projects](#1-mini-projects-1)**
+#### **2. [Major Projects](#2-major-projects-1)**
+#### **3. [Research Projets](#3-research-projets-1)**
 
 ---
 ### **1. Self Learning Resource**
