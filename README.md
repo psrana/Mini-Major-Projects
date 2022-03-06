@@ -8,9 +8,9 @@
 ---
 ### **1. Mini Projects**
 ---
-- 500+ 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲 | [Click Here](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
-- Setting up Environment: How to setup an experiment in PyCaret and get started with building regression/classfication/clustering models
-- Create Model: How to create a model, perform cross validation and evaluate regression metrics
+ 1. 500+ 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲 | [Click Here](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+    - Project on Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Time Series
+ 2. Create Model: How to create a model, perform cross validation and evaluate regression metrics
 - Tune Model: How to automatically tune the hyperparameters of a regression model
 - Plot Model: How to analyze model performance using various plots
 - Finalize Model: How to finalize the best model at the end of the experiment
@@ -32,7 +32,7 @@
 ---
 ### **3. Research Projets**
 ---
-- Getting Data: How to import data from PyCaret repository
+- https://github.com/zziz/pwc
 - Setting up Environment: How to setup an experiment in PyCaret and get started with building regression/classfication/clustering models
 - Create Model: How to create a model, perform cross validation and evaluate regression metrics
 - Tune Model: How to automatically tune the hyperparameters of a regression model
