@@ -23,7 +23,8 @@
     - Problems for All Domains and Departments | Suitable for Capstone Project.
  3. **Army Make Projects-2020** | <a href="https://drive.google.com/file/d/19UHWqrxaOLEg5rFMPd_2Io2Gucq2NGva" target="_blank" rel="noopener">Click Here</a>
     - Problems for All Domains and Departments | Suitable for Capstone Project.
-
+ 4. **List of AI Problems (with Abstract, Methodology, Expected outcome, References) from LeadingIndia.AI** | <a href="https://www.leadingindia.ai/projects" target="_blank" rel="noopener">Click Here</a>
+    - Problems statements on Healthcare, Agriculture, Space Research & Satellite imagery, Cyber Security, Education, Video Processing, Business, Insurance and Banking, etc | Suitable for Capstone Project.
 ---
 ### **3. Research Projets**
 ---
