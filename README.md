@@ -14,14 +14,11 @@
 ---
 ### **2. Major Projects**
 ---
- 1. **Problem statements from ISRO for 2021** | <a href="https://drive.google.com/file/d/1eG4q4N76y23fLRVVEbuRegauk-0VWBIh" target="_blank" rel="noopener"><b>Click Here</b></a>
-    - Novel problems | Problems can be considered for Capstone Projects or SIH or any relevant Hackathon
- 2. **150 Problem statements from Army Design Bureau** | <a href="https://drive.google.com/file/d/13qkaoBVDEbHMc8LS3HWIW8AJFN5THRDX" target="_blank" rel="noopener"><b>Click Here</b></a>
-    - Problems for All Domains and Departments | Suitable for Capstone Project.
- 3. **Army Make Projects-2020** | <a href="https://drive.google.com/file/d/19UHWqrxaOLEg5rFMPd_2Io2Gucq2NGva" target="_blank" rel="noopener"><b>Click Here</b></a>
-    - Problems for All Domains and Departments | Suitable for Capstone Project.
- 4. **List of AI Problems (with Abstract, Methodology, Expected outcome, References) from LeadingIndia.AI** | <a href="https://www.leadingindia.ai/projects" target="_blank" rel="noopener"><b>Click Here</b></a>
-    - Problems statements on Healthcare, Agriculture, Space Research & Satellite imagery, Cyber Security, Education, Video Processing, Business, Insurance and Banking, etc | Suitable for Capstone Project.
+1. **Problem statements from ISRO for 2022** | <a href="https://drive.google.com/file/d/10FtiD3vsitu76moMpCjaekIaREu3Z_bs" target="_blank" rel="noopener"><b>Click Here</b></a>
+2. **Problem statements from ISRO for 2021** | <a href="https://drive.google.com/file/d/1eG4q4N76y23fLRVVEbuRegauk-0VWBIh" target="_blank" rel="noopener"><b>Click Here</b></a>
+3. **150 Problem statements from Army Design Bureau** | <a href="https://drive.google.com/file/d/13qkaoBVDEbHMc8LS3HWIW8AJFN5THRDX" target="_blank" rel="noopener"><b>Click Here</b></a>
+4. **Army Make Projects-2020** | <a href="https://drive.google.com/file/d/19UHWqrxaOLEg5rFMPd_2Io2Gucq2NGva" target="_blank" rel="noopener"><b>Click Here</b></a>
+5. **AI Problems from LeadingIndia.AI** | <a href="https://www.leadingindia.ai/projects" target="_blank" rel="noopener"><b>Click Here</b></a>
 ---
 ### **3. Research Projets**
 ---
