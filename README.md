@@ -8,7 +8,7 @@
 ---
 ### **1. Mini Projects**
 ---
- 1. **500+ Artificial Intelligence Projects with Code** | <a href="https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code" target="_blank" rel="noopener"><b>Click Here</b></a>
+ 1. **500+ AI (ML, DL, CV, NLP, etc) Projects with Code** | <a href="https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code" target="_blank" rel="noopener"><b>Click Here</b></a>
  2. **Krish Naik Repository** | <a href="https://github.com/krishnaik06?tab=repositories" target="_blank" rel="noopener"><b>Click Here</b></a>
 
 ---
