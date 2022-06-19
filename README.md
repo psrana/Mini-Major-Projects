@@ -13,16 +13,13 @@
  3. **Python Projects** | <a href="https://www.techprofree.com/category/projects/python/" target="_blank" rel="noopener"><b>Click Here</b></a>
 
 
-
-
-
 ---
 ### **2. Major Projects**
 ---
-1. **Problem statements from ISRO for 2022** | <a href="https://drive.google.com/file/d/10FtiD3vsitu76moMpCjaekIaREu3Z_bs" target="_blank" rel="noopener"><b>Click Here</b></a>
-2. **Problem statements from ISRO for 2021** | <a href="https://drive.google.com/file/d/1eG4q4N76y23fLRVVEbuRegauk-0VWBIh" target="_blank" rel="noopener"><b>Click Here</b></a>
-3. **150 Problem statements from Army Design Bureau** | <a href="https://drive.google.com/file/d/13qkaoBVDEbHMc8LS3HWIW8AJFN5THRDX" target="_blank" rel="noopener"><b>Click Here</b></a>
-4. **Army Make Projects-2020** | <a href="https://drive.google.com/file/d/19UHWqrxaOLEg5rFMPd_2Io2Gucq2NGva" target="_blank" rel="noopener"><b>Click Here</b></a>
+1. **ISRO Problem 2022** | <a href="https://drive.google.com/drive/folders/1K-0glTmjcy2XYl0VGMvEnwgQN9E2KZEX" target="_blank" rel="noopener"><b>Click Here</b></a>
+2. **ISRO Problem 2021** | <a href="https://drive.google.com/drive/folders/1K-0glTmjcy2XYl0VGMvEnwgQN9E2KZEX" target="_blank" rel="noopener"><b>Click Here</b></a>
+3. **Army Design Bureau Problem** | <a href="https://drive.google.com/drive/folders/1K-0glTmjcy2XYl0VGMvEnwgQN9E2KZEX" target="_blank" rel="noopener"><b>Click Here</b></a>
+4. **Army Make Projects** | <a href="https://drive.google.com/drive/folders/1K-0glTmjcy2XYl0VGMvEnwgQN9E2KZEX" target="_blank" rel="noopener"><b>Click Here</b></a>
 5. **AI Problems from LeadingIndia.AI** | <a href="https://www.leadingindia.ai/projects" target="_blank" rel="noopener"><b>Click Here</b></a>
 ---
 ### **3. Research Projets**
