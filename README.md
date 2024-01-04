@@ -1,10 +1,5 @@
 ---
 # **Mini, Major and Research Projects**
-
-#### **1. [Mini Projects](#1-mini-projects-1)**
-#### **2. [Major Projects](#2-major-projects-1)**
-#### **3. [Research Projets](#3-research-projets-1)**
-
 ---
 ### **1. Mini Projects (Code and Data Available)**
 ---
@@ -14,14 +9,15 @@
 ---
 ### **2. Major Projects (Problem Description)**
 ---
-1. **ISRO Problem 2022** | <a href="https://drive.google.com/drive/folders/1K-0glTmjcy2XYl0VGMvEnwgQN9E2KZEX" target="_blank" rel="noopener"><b>Click Here</b></a>
-2. **ISRO Problem 2021** | <a href="https://drive.google.com/drive/folders/1K-0glTmjcy2XYl0VGMvEnwgQN9E2KZEX" target="_blank" rel="noopener"><b>Click Here</b></a>
-3. **Army Design Bureau Problem** | <a href="https://drive.google.com/drive/folders/1K-0glTmjcy2XYl0VGMvEnwgQN9E2KZEX" target="_blank" rel="noopener"><b>Click Here</b></a>
-4. **Army Make Projects** | <a href="https://drive.google.com/drive/folders/1K-0glTmjcy2XYl0VGMvEnwgQN9E2KZEX" target="_blank" rel="noopener"><b>Click Here</b></a>
-5. **Cyber Security**
+1. **ISRO Problems 2023** | <a href="https://drive.google.com/drive/folders/1K-0glTmjcy2XYl0VGMvEnwgQN9E2KZEX" target="_blank" rel="noopener"><b>Click Here</b></a>
+2. **ISRO Problems 2022** | <a href="https://drive.google.com/drive/folders/1K-0glTmjcy2XYl0VGMvEnwgQN9E2KZEX" target="_blank" rel="noopener"><b>Click Here</b></a>
+3. **ISRO Problems 2021** | <a href="https://drive.google.com/drive/folders/1K-0glTmjcy2XYl0VGMvEnwgQN9E2KZEX" target="_blank" rel="noopener"><b>Click Here</b></a>
+4. **Army Design Bureau Problems** | <a href="https://drive.google.com/drive/folders/1K-0glTmjcy2XYl0VGMvEnwgQN9E2KZEX" target="_blank" rel="noopener"><b>Click Here</b></a>
+5. **Army Make Projects** | <a href="https://drive.google.com/drive/folders/1K-0glTmjcy2XYl0VGMvEnwgQN9E2KZEX" target="_blank" rel="noopener"><b>Click Here</b></a>
+6. **Cyber Security**
    - **Kavach 2023: Cyber Security Hackathon** | <a href="https://kavach.mic.gov.in/kavach2023PS" target="_blank" rel="noopener"><b>Click Here</b></a>
    - **28 Problem Statements on Cyber Security** | <a href="https://drive.google.com/drive/folders/1K-0glTmjcy2XYl0VGMvEnwgQN9E2KZEX" target="_blank" rel="noopener"><b>Click Here</b></a>
-6. **AI Problems from LeadingIndia.AI** | <a href="https://www.leadingindia.ai/projects" target="_blank" rel="noopener"><b>Click Here</b></a>
+7. **AI Problems from LeadingIndia.AI** | <a href="https://www.leadingindia.ai/projects" target="_blank" rel="noopener"><b>Click Here</b></a>
 
 ---
 ### **3. Research Projets**
